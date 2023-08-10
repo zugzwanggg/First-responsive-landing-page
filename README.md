@@ -1,0 +1,1 @@
+first adaptive landing page
